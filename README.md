@@ -7,18 +7,6 @@
 
 ## Publications
 
-### demo demo
-
-**Authors:** demo demo, `Miklós Sipos`
-
-**Venue:** demo
-
-**Abstract:** demo demo demo.
-
-**Links:** [ResearchGate](https://www.researchgate.net/publication/397755608_Optimal_Gas_Consumption_in_Ethereum_Smart_Contracts_A_Targeted_Review_of_Empirical_Results_Design_Patterns_and_Formal_Methods) · [IEEE Xplore](https://ieeexplore.ieee.org/document/11311839) · [PDF](https://nik.siposm.hu/publications/demo.pdf)
-
----
-
 ### Optimal Gas Consumption in Ethereum Smart Contracts: A Targeted Review of Empirical Results, Design Patterns and Formal Methods
 
 **Authors:** `Miklós Sipos`, Sándor Szénási
