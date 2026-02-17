@@ -9,7 +9,7 @@
 
 ### Optimal Gas Consumption in Ethereum Smart Contracts: A Targeted Review of Empirical Results, Design Patterns and Formal Methods
 
-**Authors:** Miklós Sipos, Sándor Szénási
+**Authors:** `Miklós Sipos`, Sándor Szénási
 
 **Venue:** IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI 2025)
 
@@ -21,7 +21,7 @@
 
 ### Blockchain Transaction Graph Analysis Using Image Processing Techniques
 
-**Authors:** Miklós Sipos, Sándor Szénási
+**Authors:** `Miklós Sipos`, Sándor Szénási
 
 **Venue:** IEEE 25th International Symposium on Computational Intelligence and Informatics (CINTI 2025)
 
@@ -33,7 +33,7 @@
 
 ### Analyzing Follower Data on Social Platforms Using Big Data Tools
 
-**Authors:** Levente Füzér, Miklós Sipos
+**Authors:** Levente Füzér, `Miklós Sipos`
 
 **Venue:** IEEE 29th International Conference on Intelligent Engineering Systems (INES 2025)
 
@@ -45,7 +45,7 @@
 
 ### Blockchain-based Voting DApp with MetaMask Integration
 
-**Authors:** Benedek Csikós, Kata Egres, Miklós Sipos
+**Authors:** Benedek Csikós, Kata Egres, `Miklós Sipos`
 
 **Venue:** IEEE 22nd Jubilee International Symposium on Intelligent Systems and Informatics (SISY 2024)
 
@@ -57,7 +57,7 @@
 
 ### Blockchain-based Healthcare DApp with MetaMask Integration
 
-**Authors:** Barnabás Kuglics, Miklós Sipos
+**Authors:** Barnabás Kuglics, `Miklós Sipos`
 
 **Venue:** IEEE 22nd Jubilee International Symposium on Intelligent Systems and Informatics (SISY 2024)
 
@@ -69,7 +69,7 @@
 
 ### Analyzing Training Exercises with Mathematical Algorithms and Convolutional Neural Network
 
-**Authors:** Szabolcs Bakos, Miklós Sipos
+**Authors:** Szabolcs Bakos, `Miklós Sipos`
 
 **Venue:** IEEE 23rd International Symposium on Computational Intelligence and Informatics (CINTI 2023)
 
@@ -81,7 +81,7 @@
 
 ### Deception Detection System with Image Processing
 
-**Authors:** Bálint Bódi, Miklós Sipos
+**Authors:** Bálint Bódi, `Miklós Sipos`
 
 **Venue:** IEEE 21st World Symposium on Applied Machine Intelligence and Informatics (SAMI 2023)
 
@@ -93,7 +93,7 @@
 
 ### Enhancing huBERT Model with Additional Convolutional and BiLSTM Layers for Hungarian Sentiment Analysis
 
-**Authors:** Dávid Maafi, Miklós Sipos
+**Authors:** Dávid Maafi, `Miklós Sipos`
 
 **Venue:** IEEE 23rd International Symposium on Computational Intelligence and Informatics (CINTI 2023)
 
@@ -105,7 +105,7 @@
 
 ### Lightweight Blockchain Simulation with Transaction Graph Visualizer
 
-**Authors:** Miklós Sipos, Sándor Szénási
+**Authors:** `Miklós Sipos`, Sándor Szénási
 
 **Venue:** IEEE 23rd International Symposium on Computational Intelligence and Informatics (CINTI 2023)
 
@@ -117,7 +117,7 @@
 
 ### PSO based Optimization of DBSCAN Algorithm Parameters for Road Accident Blackspot Localization
 
-**Authors:** Sándor Szénási, Miklós Sipos, Péter Mogyorósi
+**Authors:** Sándor Szénási, `Miklós Sipos`, Péter Mogyorósi
 
 **Venue:** IEEE 10th Jubilee International Conference on Computational Cybernetics and Cyber-Medical Systems (ICCC 2022)
 
@@ -129,7 +129,7 @@
 
 ### Key-Value Pair Searching System via Tesseract OCR and Post Processing
 
-**Authors:** Áron Kaló, Miklós Sipos
+**Authors:** Áron Kaló, `Miklós Sipos`
 
 **Venue:** IEEE 19th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2021)
 
