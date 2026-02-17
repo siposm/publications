@@ -1,5 +1,18 @@
 [
     {
+        "title": "demo demo",
+        "abstract": "demo demo demo.",
+        "researchgateLink": "https://facebook.com",
+        "ieeexploreLink": "https://google.com",
+        "conference": "demo",
+        "pdf": "demo.pdf",
+        "authors": [
+            "demo demo",
+            "Miklós Sipos",
+            "lorem ipsum dolor sit amet"
+        ]
+    },
+    {
         "title": "Optimal Gas Consumption in Ethereum Smart Contracts: A Targeted Review of Empirical Results, Design Patterns and Formal Methods",
         "abstract": "Gas optimization is a critical concern in the development of Ethereum smart contracts, with substantial implications for both cost-efficiency and security. This review systematically examines the latest peer-reviewed research on gas consumption in Solidity contracts, focusing on how micro-level decisions such as function implementation, data member usage, and storage patterns as well as macro-level architectural choices, including object-oriented structures like aggregation and inheritance, influence gas usage. Empirical findings reveal that persistent storage operations and cross-contract calls represent the highest gas expenditures, while optimization techniques such as struct and variable packing, use of immutables, and minimized storage access can yield significant savings. Object-oriented features, although beneficial for modularity, tend to increase gas costs if not carefully managed. The adoption of formal verification frameworks ensures the correctness of automated optimizations and prevents the introduction of subtle bugs. Furthermore, network-level gas price volatility underlines the need for continuous benchmarking and adaptive strategies. Overall, the review demonstrates that effective gas optimization requires an integrated approach, combining empirical measurement, code-level best practices, formal guarantees, and awareness of evolving network conditions.",
         "researchgateLink": "https://www.researchgate.net/publication/397755608_Optimal_Gas_Consumption_in_Ethereum_Smart_Contracts_A_Targeted_Review_of_Empirical_Results_Design_Patterns_and_Formal_Methods",
