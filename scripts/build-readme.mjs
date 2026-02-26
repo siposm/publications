@@ -3,10 +3,10 @@ import fs from "node:fs";
 const JSON_PATH = process.env.PUBLICATIONS_JSON ?? "data/publications.json";
 const OUT_PATH = process.env.OUT_README ?? "README.md";
 
-const PDF_BASE_URL = process.env.PDF_BASE_URL ?? "https://nik.siposm.hu/publications/";
+const PDF_BASE_URL =
+    process.env.PDF_BASE_URL ?? "https://nik.siposm.hu/publications/";
 
 const data = JSON.parse(fs.readFileSync(JSON_PATH, "utf8"));
-
 const publications = data.publications ?? data ?? [];
 
 function mdLink(label, url) {
@@ -43,6 +43,15 @@ function safe(s) {
     return (s ?? "").toString().trim();
 }
 
+// GitHub Markdown táblázatban a sortörés trükközős lehet, ezért
+// az absztraktot (és bármi hosszabbat) HTML <br> sorokra törjük.
+function mdCellText(s) {
+    const t = safe(s);
+    if (!t) return "—";
+    // Escape pipe, hogy ne törje szét a táblázatot
+    return t.replaceAll("|", "\\|").replaceAll("\n", "<br>");
+}
+
 const PROFILES_MD = `## Research Profiles
 
 - [ORCID](https://orcid.org/0009-0005-9783-6051)
@@ -56,13 +65,20 @@ let out = `${PROFILES_MD}\n## Publications\n\n`;
 for (let i = 0; i < publications.length; i++) {
     const p = publications[i];
 
-    out += `### 📑 ${safe(p.title)}\n\n`;
-    out += `✍️ **Authors:** ${joinAuthors(p.authors)}\n\n`;
-    out += `🏛️ **Venue:** ${safe(p.conference)}\n\n`;
-    out += `🔎 **Abstract:** ${safe(p.abstract)}\n\n`;
+    const title = mdCellText(p.title);
+    const authors = mdCellText(joinAuthors(p.authors));
+    const venue = mdCellText(p.conference);
+    const abstract = mdCellText(p.abstract);
 
     const links = buildLinks(p);
-    out += `🔗 **Links:** ${links || "—"}\n\n`;
+    const linksCell = links ? links : "—";
+
+    out += `| 📑 | ${title} |\n`;
+    out += `| ----- | :----- |\n`;
+    out += `| ✍️ | ${authors} |\n`;
+    out += `| 🏛️ | ${venue} |\n`;
+    out += `| 🔎 | ${abstract} |\n`;
+    out += `| 🔗 | ${linksCell} |\n\n`;
 
     if (i !== publications.length - 1) out += `---\n\n`;
 }
