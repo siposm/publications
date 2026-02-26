@@ -80,7 +80,7 @@ for (let i = 0; i < publications.length; i++) {
     out += `| 🔎 | ${abstract} |\n`;
     out += `| 🔗 | ${linksCell} |\n\n`;
 
-    if (i !== publications.length - 1) out += `---\n\n`;
+    if (i !== publications.length - 1) out += `<br><br>\n\n`;
 }
 
 fs.writeFileSync(OUT_PATH, out, "utf8");
