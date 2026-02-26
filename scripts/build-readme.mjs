@@ -57,12 +57,12 @@ for (let i = 0; i < publications.length; i++) {
     const p = publications[i];
 
     out += `### 📑 ${safe(p.title)}\n\n`;
-    out += `✍️**Authors:** ${joinAuthors(p.authors)}\n\n`;
-    out += `🏛️**Venue:** ${safe(p.conference)}\n\n`;
-    out += `🔎**Abstract:** ${safe(p.abstract)}\n\n`;
+    out += `✍️ **Authors:** ${joinAuthors(p.authors)}\n\n`;
+    out += `🏛️ **Venue:** ${safe(p.conference)}\n\n`;
+    out += `🔎 **Abstract:** ${safe(p.abstract)}\n\n`;
 
     const links = buildLinks(p);
-    out += `🔗**Links:** ${links || "—"}\n\n`;
+    out += `🔗 **Links:** ${links || "—"}\n\n`;
 
     if (i !== publications.length - 1) out += `---\n\n`;
 }
