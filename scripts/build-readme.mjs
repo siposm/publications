@@ -64,7 +64,7 @@ for (let i = 0; i < publications.length; i++) {
     const links = buildLinks(p);
     out += `**Links:** ${links || "—"}\n\n`;
 
-    if (i !== publications.length - 1) out += `---\n\n`;
+    if (i !== publications.length - 1) out += `\n\n<br>\n---\n<br>\n\n`;
 }
 
 fs.writeFileSync(OUT_PATH, out, "utf8");
