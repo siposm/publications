@@ -17,7 +17,11 @@
 
 **Links:** [ResearchGate](https://www.researchgate.net/publication/397755608_Optimal_Gas_Consumption_in_Ethereum_Smart_Contracts_A_Targeted_Review_of_Empirical_Results_Design_Patterns_and_Formal_Methods) · [IEEE Xplore](https://ieeexplore.ieee.org/document/11311839) · [PDF](https://nik.siposm.hu/publications/Optimal_Gas_Consumption_in_Ethereum_Smart_Contracts_A_Targeted_Review_of_Empirical_Results_Design_Patterns_and_Formal_Methods.pdf)
 
+
+
+<br>
 ---
+<br>
 
 ### Blockchain Transaction Graph Analysis Using Image Processing Techniques
 
@@ -29,7 +33,11 @@
 
 **Links:** [ResearchGate](https://www.researchgate.net/publication/397755931_Blockchain_Transaction_Graph_Analysis_Using_Image_Processing_Techniques) · [IEEE Xplore](https://ieeexplore.ieee.org/document/11311752) · [PDF](https://nik.siposm.hu/publications/Blockchain_Transaction_Graph_Analysis_Using_Image_Processing_Techniques.pdf)
 
+
+
+<br>
 ---
+<br>
 
 ### Analyzing Follower Data on Social Platforms Using Big Data Tools
 
@@ -41,7 +49,11 @@
 
 **Links:** [ResearchGate](https://www.researchgate.net/publication/392594300_Analyzing_Follower_Data_on_Social_Platforms_Using_Big_Data_Tools) · [IEEE Xplore](https://ieeexplore.ieee.org/document/11078171) · [PDF](https://nik.siposm.hu/publications/Analyzing_Follower_Data_on_Social_Platforms_Using_Big_Data_Tools.pdf)
 
+
+
+<br>
 ---
+<br>
 
 ### Blockchain-based Voting DApp with MetaMask Integration
 
@@ -53,7 +65,11 @@
 
 **Links:** [ResearchGate](https://www.researchgate.net/publication/384254165_Blockchain-based_Voting_DApp_with_MetaMask_Integration) · [IEEE Xplore](https://ieeexplore.ieee.org/document/10737569) · [PDF](https://nik.siposm.hu/publications/Blockchain-based_Voting_DApp_with_MetaMask_Integration.pdf)
 
+
+
+<br>
 ---
+<br>
 
 ### Blockchain-based Healthcare DApp with MetaMask Integration
 
@@ -65,7 +81,11 @@
 
 **Links:** [ResearchGate](https://www.researchgate.net/publication/384254323_Blockchain-based_Healthcare_DApp_with_MetaMask_Integration) · [IEEE Xplore](https://ieeexplore.ieee.org/document/10737534) · [PDF](https://nik.siposm.hu/publications/Blockchain-Based_Healthcare_DApp_with_MetaMask_Integration.pdf)
 
+
+
+<br>
 ---
+<br>
 
 ### Analyzing Training Exercises with Mathematical Algorithms and Convolutional Neural Network
 
@@ -77,7 +97,11 @@
 
 **Links:** [ResearchGate](https://www.researchgate.net/publication/375800084_Analyzing_Training_Exercises_with_Mathematical_Algorithms_and_Convolutional_Neural_Network) · [IEEE Xplore](https://ieeexplore.ieee.org/document/10382077) · [PDF](https://nik.siposm.hu/publications/Analyzing_Training_Exercises_with_Mathematical_Algorithms_and_Convolutional_Neural_Network.pdf)
 
+
+
+<br>
 ---
+<br>
 
 ### Deception Detection System with Image Processing
 
@@ -89,7 +113,11 @@
 
 **Links:** [ResearchGate](https://www.researchgate.net/publication/373603126_Deception_Detection_System_with_Image_Processing) · [PDF](https://nik.siposm.hu/publications/Deception_Detection_System_with_Image_Processing.pdf)
 
+
+
+<br>
 ---
+<br>
 
 ### Enhancing huBERT Model with Additional Convolutional and BiLSTM Layers for Hungarian Sentiment Analysis
 
@@ -101,7 +129,11 @@
 
 **Links:** [ResearchGate](https://www.researchgate.net/publication/375800311_Enhancing_huBERT_Model_with_Additional_Convolutional_and_BiLSTM_Layers_for_Hungarian_Sentiment_Analysis) · [IEEE Xplore](https://ieeexplore.ieee.org/document/10381977) · [PDF](https://nik.siposm.hu/publications/Enhancing_huBERT_Model_with_Additional_Convolutional_and_BiLSTM_Layers_for_Hungarian_Sentiment_Analysis.pdf)
 
+
+
+<br>
 ---
+<br>
 
 ### Lightweight Blockchain Simulation with Transaction Graph Visualizer
 
@@ -113,7 +145,11 @@
 
 **Links:** [ResearchGate](https://www.researchgate.net/publication/375800195_Lightweight_Blockchain_Simulation_with_Transaction_Graph_Visualizer) · [IEEE Xplore](https://ieeexplore.ieee.org/document/10382093) · [PDF](https://nik.siposm.hu/publications/Lightweight_Blockchain_Simulation_with_Transaction_Graph_Visualizer.pdf)
 
+
+
+<br>
 ---
+<br>
 
 ### PSO based Optimization of DBSCAN Algorithm Parameters for Road Accident Blackspot Localization
 
@@ -125,7 +161,11 @@
 
 **Links:** [ResearchGate](https://www.researchgate.net/publication/365123957_PSO_based_Optimization_of_DBSCAN_Algorithm_Parameters_for_Road_Accident_Blackspot_Localization) · [IEEE Xplore](https://ieeexplore.ieee.org/document/9922768) · [PDF](https://nik.siposm.hu/publications/PSO_based_Optimization_of_DBSCAN_Algorithm_Parameters_for_Road_Accident_Blackspot_Localization.pdf)
 
+
+
+<br>
 ---
+<br>
 
 ### Key-Value Pair Searching System via Tesseract OCR and Post Processing
 
