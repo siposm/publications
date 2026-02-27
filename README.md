@@ -20,7 +20,9 @@
 
 
 <br>
+
 ---
+
 <br>
 
 ### Blockchain Transaction Graph Analysis Using Image Processing Techniques
@@ -36,7 +38,9 @@
 
 
 <br>
+
 ---
+
 <br>
 
 ### Analyzing Follower Data on Social Platforms Using Big Data Tools
@@ -52,7 +56,9 @@
 
 
 <br>
+
 ---
+
 <br>
 
 ### Blockchain-based Voting DApp with MetaMask Integration
@@ -68,7 +74,9 @@
 
 
 <br>
+
 ---
+
 <br>
 
 ### Blockchain-based Healthcare DApp with MetaMask Integration
@@ -84,7 +92,9 @@
 
 
 <br>
+
 ---
+
 <br>
 
 ### Analyzing Training Exercises with Mathematical Algorithms and Convolutional Neural Network
@@ -100,7 +110,9 @@
 
 
 <br>
+
 ---
+
 <br>
 
 ### Deception Detection System with Image Processing
@@ -116,7 +128,9 @@
 
 
 <br>
+
 ---
+
 <br>
 
 ### Enhancing huBERT Model with Additional Convolutional and BiLSTM Layers for Hungarian Sentiment Analysis
@@ -132,7 +146,9 @@
 
 
 <br>
+
 ---
+
 <br>
 
 ### Lightweight Blockchain Simulation with Transaction Graph Visualizer
@@ -148,7 +164,9 @@
 
 
 <br>
+
 ---
+
 <br>
 
 ### PSO based Optimization of DBSCAN Algorithm Parameters for Road Accident Blackspot Localization
@@ -164,7 +182,9 @@
 
 
 <br>
+
 ---
+
 <br>
 
 ### Key-Value Pair Searching System via Tesseract OCR and Post Processing
