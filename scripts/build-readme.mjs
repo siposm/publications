@@ -33,7 +33,7 @@ function buildLinks(pub) {
             pub.pdf.startsWith("http://") || pub.pdf.startsWith("https://")
                 ? pub.pdf
                 : `${PDF_BASE_URL}${pub.pdf}`;
-        links.push(mdLink("PDF", pdfUrl));
+        links.push(mdLink("Full article (.pdf)", pdfUrl));
     }
 
     return links.filter(Boolean).join(" · ");
@@ -45,11 +45,10 @@ function safe(s) {
 
 const PROFILES_MD = `## Research Profiles
 
-> [!IMPORTANT]
-> - [ORCID](https://orcid.org/0009-0005-9783-6051)
-> - [MTMT](https://m2.mtmt.hu/api/author/10083573)
-> - [ResearchGate](https://www.researchgate.net/profile/Miklos-Sipos)
-> - [Google Scholar](https://scholar.google.com/citations?user=CJpFBA0AAAAJ&hl=en)
+- [ORCID](https://orcid.org/0009-0005-9783-6051)
+- [MTMT](https://m2.mtmt.hu/api/author/10083573)
+- [ResearchGate](https://www.researchgate.net/profile/Miklos-Sipos)
+- [Google Scholar](https://scholar.google.com/citations?user=CJpFBA0AAAAJ&hl=en)
 
 <br>
 <br>
