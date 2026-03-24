@@ -49,6 +49,12 @@ const PROFILES_MD = `## Research Profiles
 - [MTMT](https://m2.mtmt.hu/api/author/10083573)
 - [ResearchGate](https://www.researchgate.net/profile/Miklos-Sipos)
 - [Google Scholar](https://scholar.google.com/citations?user=CJpFBA0AAAAJ&hl=en)
+
+<br>
+
+---
+
+<br>
 `;
 
 let out = `${PROFILES_MD}\n## Publications\n\n`;
