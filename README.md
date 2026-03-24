@@ -11,7 +11,9 @@
 
 ## Publications
 
-### Optimal Gas Consumption in Ethereum Smart Contracts: A Targeted Review of Empirical Results, Design Patterns and Formal Methods
+>[!TIP] Optimal Gas Consumption in Ethereum Smart Contracts: A Targeted Review of Empirical Results, Design Patterns and Formal Methods
+
+> Optimal Gas Consumption in Ethereum Smart Contracts: A Targeted Review of Empirical Results, Design Patterns and Formal Methods
 
 **Authors:** `Miklós Sipos`, Sándor Szénási
 
@@ -29,7 +31,9 @@
 
 <br>
 
-### Blockchain Transaction Graph Analysis Using Image Processing Techniques
+>[!TIP] Blockchain Transaction Graph Analysis Using Image Processing Techniques
+
+> Blockchain Transaction Graph Analysis Using Image Processing Techniques
 
 **Authors:** `Miklós Sipos`, Sándor Szénási
 
@@ -47,7 +51,9 @@
 
 <br>
 
-### Analyzing Follower Data on Social Platforms Using Big Data Tools
+>[!TIP] Analyzing Follower Data on Social Platforms Using Big Data Tools
+
+> Analyzing Follower Data on Social Platforms Using Big Data Tools
 
 **Authors:** Levente Füzér, `Miklós Sipos`
 
@@ -65,7 +71,9 @@
 
 <br>
 
-### Blockchain-based Voting DApp with MetaMask Integration
+>[!TIP] Blockchain-based Voting DApp with MetaMask Integration
+
+> Blockchain-based Voting DApp with MetaMask Integration
 
 **Authors:** Benedek Csikós, Kata Egres, `Miklós Sipos`
 
@@ -83,7 +91,9 @@
 
 <br>
 
-### Blockchain-based Healthcare DApp with MetaMask Integration
+>[!TIP] Blockchain-based Healthcare DApp with MetaMask Integration
+
+> Blockchain-based Healthcare DApp with MetaMask Integration
 
 **Authors:** Barnabás Kuglics, `Miklós Sipos`
 
@@ -101,7 +111,9 @@
 
 <br>
 
-### Analyzing Training Exercises with Mathematical Algorithms and Convolutional Neural Network
+>[!TIP] Analyzing Training Exercises with Mathematical Algorithms and Convolutional Neural Network
+
+> Analyzing Training Exercises with Mathematical Algorithms and Convolutional Neural Network
 
 **Authors:** Szabolcs Bakos, `Miklós Sipos`
 
@@ -119,7 +131,9 @@
 
 <br>
 
-### Deception Detection System with Image Processing
+>[!TIP] Deception Detection System with Image Processing
+
+> Deception Detection System with Image Processing
 
 **Authors:** Bálint Bódi, `Miklós Sipos`
 
@@ -137,7 +151,9 @@
 
 <br>
 
-### Enhancing huBERT Model with Additional Convolutional and BiLSTM Layers for Hungarian Sentiment Analysis
+>[!TIP] Enhancing huBERT Model with Additional Convolutional and BiLSTM Layers for Hungarian Sentiment Analysis
+
+> Enhancing huBERT Model with Additional Convolutional and BiLSTM Layers for Hungarian Sentiment Analysis
 
 **Authors:** Dávid Maafi, `Miklós Sipos`
 
@@ -155,7 +171,9 @@
 
 <br>
 
-### Lightweight Blockchain Simulation with Transaction Graph Visualizer
+>[!TIP] Lightweight Blockchain Simulation with Transaction Graph Visualizer
+
+> Lightweight Blockchain Simulation with Transaction Graph Visualizer
 
 **Authors:** `Miklós Sipos`, Sándor Szénási
 
@@ -173,7 +191,9 @@
 
 <br>
 
-### PSO based Optimization of DBSCAN Algorithm Parameters for Road Accident Blackspot Localization
+>[!TIP] PSO based Optimization of DBSCAN Algorithm Parameters for Road Accident Blackspot Localization
+
+> PSO based Optimization of DBSCAN Algorithm Parameters for Road Accident Blackspot Localization
 
 **Authors:** Sándor Szénási, `Miklós Sipos`, Péter Mogyorósi
 
@@ -191,7 +211,9 @@
 
 <br>
 
-### Key-Value Pair Searching System via Tesseract OCR and Post Processing
+>[!TIP] Key-Value Pair Searching System via Tesseract OCR and Post Processing
+
+> Key-Value Pair Searching System via Tesseract OCR and Post Processing
 
 **Authors:** Áron Kaló, `Miklós Sipos`
 
