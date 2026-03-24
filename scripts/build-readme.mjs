@@ -60,7 +60,7 @@ let out = `${PROFILES_MD}\n## Publications\n\n`;
 for (let i = 0; i < publications.length; i++) {
     const p = publications[i];
 
-    out += `>[!TIP] ${safe(p.title)}\n\n`;
+    out += `> [!TIP]`;
     out += `> ${safe(p.title)}\n\n`;
     out += `**Authors:** ${joinAuthors(p.authors)}\n\n`;
     out += `**Venue:** ${safe(p.conference)}\n\n`;
