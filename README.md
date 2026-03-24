@@ -1,14 +1,13 @@
 ## Research Profiles
 
-- [ORCID](https://orcid.org/0009-0005-9783-6051)
-- [MTMT](https://m2.mtmt.hu/api/author/10083573)
-- [ResearchGate](https://www.researchgate.net/profile/Miklos-Sipos)
-- [Google Scholar](https://scholar.google.com/citations?user=CJpFBA0AAAAJ&hl=en)
+> [!IMPORTANT]
+> - [ORCID](https://orcid.org/0009-0005-9783-6051)
+> - [MTMT](https://m2.mtmt.hu/api/author/10083573)
+> - [ResearchGate](https://www.researchgate.net/profile/Miklos-Sipos)
+> - [Google Scholar](https://scholar.google.com/citations?user=CJpFBA0AAAAJ&hl=en)
 
 <br>
-
----
-
+<br>
 <br>
 
 ## Publications
