@@ -33,7 +33,7 @@ function buildLinks(pub) {
             pub.pdf.startsWith("http://") || pub.pdf.startsWith("https://")
                 ? pub.pdf
                 : `${PDF_BASE_URL}${pub.pdf}`;
-        links.push(mdLink("Full article (.pdf)", pdfUrl));
+        links.push(mdLink("Full paper", pdfUrl));
     }
 
     return links.filter(Boolean).join(" · ");
