@@ -5,6 +5,12 @@
 - [ResearchGate](https://www.researchgate.net/profile/Miklos-Sipos)
 - [Google Scholar](https://scholar.google.com/citations?user=CJpFBA0AAAAJ&hl=en)
 
+<br>
+
+---
+
+<br>
+
 ## Publications
 
 ### Optimal Gas Consumption in Ethereum Smart Contracts: A Targeted Review of Empirical Results, Design Patterns and Formal Methods
