@@ -64,6 +64,7 @@ for (let i = 0; i < publications.length; i++) {
     out += `**Authors:** ${joinAuthors(p.authors)}\n\n`;
     out += `**Venue:** ${safe(p.conference)}\n\n`;
     out += `**Abstract:** ${safe(p.abstract)}\n\n`;
+    out += `**Index terms:** ${safe(p.keywords)}\n\n`;
 
     const links = buildLinks(p);
     out += `**Links:** ${links || "—"}\n\n`;
