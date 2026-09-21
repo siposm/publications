@@ -21,7 +21,7 @@
 
 **Index terms:** machine translation, BLEU, ChatGPT, LLM, cloud deployment, Azure, Google translate, web application
 
-**Links:** [Full paper](https://nik.siposm.hu/publications/A_Cloud-Based_Platform_for_Side-by-Side_Machine_Translation_Comparison_and_BLEU-Based_Evaluation.pdf)
+**Links:** [ResearchGate](researchgate.net/publication/408415879_A_Cloud-Based_Platform_for_Side-by-Side_Machine_Translation_Comparison_and_BLEU-Based_Evaluation?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0) · [IEEE Xplore](https://ieeexplore.ieee.org/document/11661123) · [Full paper](https://nik.siposm.hu/publications/A_Cloud-Based_Platform_for_Side-by-Side_Machine_Translation_Comparison_and_BLEU-Based_Evaluation.pdf)
 
 
 
