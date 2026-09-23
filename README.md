@@ -11,26 +11,6 @@
 
 ## Publications
 
-### Baseline-Normalized Deception Cue Detection from Facial Action Units in Short Video Responses
-
-**Authors:** Bálint Bódi, `Miklós Sipos`
-
-**Venue:** IEEE 24th International Symposium on Intelligent Systems and Informatics (SISY 2026)
-
-**Abstract:** Automatic deception detection from facial behavior is difficult because facial cues are brief, subject dependent, and not unique to lying. This paper presents a baseline-normalized video analysis method that treats deception detection as the comparison of Facial Action Coding System Action Unit (AU) activations between verified truthful control answers and probe answers. Instead of training a new deception classifier, the proposed pipeline uses a pre-trained facial behavior analysis model to extract frame-level AU intensities, filters deception-related AUs reported in the literature, aggregates them over manually marked response intervals, and flags positive deviations from the subject's own baseline. The contribution is a reproducible processing and scoring protocol for short, single-person interview videos. A preliminary evaluation with five volunteers used five control questions, five deceptive probe answers, and five truthful probe answers per subject. Under the selected thresholds, all five deceptive probe groups were flagged and all five truthful probe groups were rejected; therefore, the preliminary subject-level accuracy was 10/10. These results show technical feasibility under constrained conditions, but they do not establish general real-world validity. The paper therefore also specifies the operational constraints, explains the role of control questions and response length, and outlines the additional data, adversarial testing, and multimodal fusion required for practical use.
-
-**Index terms:** Action Unit, deception detection, Facial Action Coding System, facial behavior analysis, micro-expression, video processing
-
-**Links:** —
-
-
-
-<br>
-
----
-
-<br>
-
 ### AI-Assisted Multi-Source Decision Support Framework for Evaluating Developer Teamwork from Repositories, Meeting Transcripts, and Peer Feedback
 
 **Authors:** `Miklós Sipos`, András Kovács
@@ -41,7 +21,27 @@
 
 **Index terms:** AI-assisted assessment, decision support, developer teamwork, repository mining, commit analysis, meeting transcript analysis, peer feedback, software engineering management
 
-**Links:** —
+**Links:** [ResearchGate](https://www.researchgate.net/publication/414656709_AI-Assisted_Multi-Source_Decision_Support_Framework_for_Evaluating_Developer_Teamwork_from_Repositories_Meeting_Transcripts_and_Peer_Feedback) · [Full paper](https://nik.siposm.hu/publications/AI_Assisted_Multi_Source_Decision_Support_Framework_for_Evaluating_Developer_Teamwork_from_Repositories_Meeting_Transcripts_and_Peer_Feedback.pdf)
+
+
+
+<br>
+
+---
+
+<br>
+
+### Baseline-Normalized Deception Cue Detection from Facial Action Units in Short Video Responses
+
+**Authors:** Bálint Bódi, `Miklós Sipos`
+
+**Venue:** IEEE 24th International Symposium on Intelligent Systems and Informatics (SISY 2026)
+
+**Abstract:** Automatic deception detection from facial behavior is difficult because facial cues are brief, subject dependent, and not unique to lying. This paper presents a baseline-normalized video analysis method that treats deception detection as the comparison of Facial Action Coding System Action Unit (AU) activations between verified truthful control answers and probe answers. Instead of training a new deception classifier, the proposed pipeline uses a pre-trained facial behavior analysis model to extract frame-level AU intensities, filters deception-related AUs reported in the literature, aggregates them over manually marked response intervals, and flags positive deviations from the subject's own baseline. The contribution is a reproducible processing and scoring protocol for short, single-person interview videos. A preliminary evaluation with five volunteers used five control questions, five deceptive probe answers, and five truthful probe answers per subject. Under the selected thresholds, all five deceptive probe groups were flagged and all five truthful probe groups were rejected; therefore, the preliminary subject-level accuracy was 10/10. These results show technical feasibility under constrained conditions, but they do not establish general real-world validity. The paper therefore also specifies the operational constraints, explains the role of control questions and response length, and outlines the additional data, adversarial testing, and multimodal fusion required for practical use.
+
+**Index terms:** Action Unit, deception detection, Facial Action Coding System, facial behavior analysis, micro-expression, video processing
+
+**Links:** [ResearchGate](https://www.researchgate.net/publication/414656801_Baseline-Normalized_Deception_Cue_Detection_from_Facial_Action_Units_in_Short_Video_Responses) · [Full paper](https://nik.siposm.hu/publications/Baseline_Normalized_Deception_Cue_Detection_from_Facial_Action_Units_in_Short_Video_Responses.pdf)
 
 
 
