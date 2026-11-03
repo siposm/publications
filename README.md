@@ -21,7 +21,7 @@
 
 **Index terms:** AI-assisted assessment, decision support, developer teamwork, repository mining, commit analysis, meeting transcript analysis, peer feedback, software engineering management
 
-**Links:** [ResearchGate](https://www.researchgate.net/publication/414656709_AI-Assisted_Multi-Source_Decision_Support_Framework_for_Evaluating_Developer_Teamwork_from_Repositories_Meeting_Transcripts_and_Peer_Feedback) · [Full paper](https://nik.siposm.hu/publications/AI_Assisted_Multi_Source_Decision_Support_Framework_for_Evaluating_Developer_Teamwork_from_Repositories_Meeting_Transcripts_and_Peer_Feedback.pdf)
+**Links:** [ResearchGate](https://www.researchgate.net/publication/414656709_AI-Assisted_Multi-Source_Decision_Support_Framework_for_Evaluating_Developer_Teamwork_from_Repositories_Meeting_Transcripts_and_Peer_Feedback) · [IEEE Xplore](https://ieeexplore.ieee.org/document/11738566) · [Full paper](https://nik.siposm.hu/publications/AI_Assisted_Multi_Source_Decision_Support_Framework_for_Evaluating_Developer_Teamwork_from_Repositories_Meeting_Transcripts_and_Peer_Feedback.pdf)
 
 
 
@@ -41,7 +41,7 @@
 
 **Index terms:** Action Unit, deception detection, Facial Action Coding System, facial behavior analysis, micro-expression, video processing
 
-**Links:** [ResearchGate](https://www.researchgate.net/publication/414656801_Baseline-Normalized_Deception_Cue_Detection_from_Facial_Action_Units_in_Short_Video_Responses) · [Full paper](https://nik.siposm.hu/publications/Baseline_Normalized_Deception_Cue_Detection_from_Facial_Action_Units_in_Short_Video_Responses.pdf)
+**Links:** [ResearchGate](https://www.researchgate.net/publication/414656801_Baseline-Normalized_Deception_Cue_Detection_from_Facial_Action_Units_in_Short_Video_Responses) · [IEEE Xplore](https://ieeexplore.ieee.org/document/11738442) · [Full paper](https://nik.siposm.hu/publications/Baseline_Normalized_Deception_Cue_Detection_from_Facial_Action_Units_in_Short_Video_Responses.pdf)
 
 
 
